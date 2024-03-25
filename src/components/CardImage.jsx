@@ -99,7 +99,7 @@ export default function Example() {
       },
     ],
 
-    "30minutes": [
+    "30min": [
       {
         id: 1,
         bearish: 8,
@@ -143,7 +143,7 @@ export default function Example() {
         stock1: "Stock",
       },
     ],
-    "15minutes": [
+    "15min": [
       {
         id: 1,
         bearish: 9,
@@ -187,7 +187,7 @@ export default function Example() {
         stock1: "Stock",
       },
     ],
-    "10minutes": [
+    "10min": [
       {
         id: 1,
         bearish: 6,
@@ -232,7 +232,7 @@ export default function Example() {
         stock1: "Stock",
       },
     ],
-    "  5minutes": [
+    "  5min": [
       {
         id: 1,
         bearish: 5,
